@@ -1,6 +1,6 @@
 # Hi there, I'm Yoga Pramana Syahputra Teguh 👋
 
-I am an undergraduate student at Institut Sains dan Teknologi Terpadu Surabaya, majoring in Informatics. Currently, I’m focused on software engineering projects as I aspire to become a proficient software engineer.
+I am an undergraduate student at Institut Sains dan Teknologi Terpadu Surabaya, majoring in Informatics. Currently, I aspire to become a proficient software engineer.
 
 ## 🔧 Languages, Frameworks, and Tools:
 
