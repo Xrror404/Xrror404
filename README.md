@@ -42,9 +42,9 @@ Passionate about building efficient and scalable applications, I specialize in f
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xrror404&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Xrror404&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xrror404&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xrror404&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </div>
 
 ---
@@ -52,7 +52,7 @@ Passionate about building efficient and scalable applications, I specialize in f
 ## 🌱 Currently Learning
 - Advanced software engineering practices
 - AI and machine learning techniques
-- Frontend designing with modern frameworks
+- Backend development with modern frameworks
 
 ---
 
